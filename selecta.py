@@ -98,9 +98,9 @@ def event_loop():
             spinning = False
 
             
+if __name__ == "__main__":
 
-
-event_loop()
+    event_loop()
 
 
 
